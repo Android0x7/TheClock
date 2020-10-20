@@ -1,0 +1,21 @@
+.hours12-0 :nth-child(4){
+    background-image: url("hours/0.png");
+}
+
+.hours12-1 :nth-child(4){
+    background-image: url("hours/1.png");
+}
+.hours12-2 :nth-child(4){
+    background-image: url("hours/2.png");
+}
+.hours12-3 :nth-child(4){
+    background-image: url("hours/3.png");
+}
+.hours12-4 :nth-child(4){
+    background-image: url("hours/4.png");
+}
+
+.hours1-0 :nth-child(4){
+    background-image: url("hours/5.png");
+}
+
