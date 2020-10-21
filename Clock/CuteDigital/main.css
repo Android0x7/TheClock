@@ -23,9 +23,17 @@ html body {margin:0;padding:0}
 }
 
 .clock :nth-child(1){
-    background-image: url("digitalFace.png");
-    xborder: solid 1px Black;
+    background: black;
+    xborder-radius: 200px;
     xmargin-top: 10%;
+
+}
+
+.clock :nth-child(2){
+    background: pink;
+    border-radius: 150px;
+    xmargin-top: 10%;
+
 }
 
 

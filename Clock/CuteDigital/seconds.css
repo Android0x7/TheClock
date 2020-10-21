@@ -1,186 +1,184 @@
-.clock :nth-child(3){
-    background-position-x: 40%, 94%, 88%;
-    background-position-y: 80%;
-    background-size: 5%, 10%, 10%;
+.clock :nth-child(4){
+    background-position-x: 40%, 40%, 98%, 92%;
+    background-position-y: 50%, 80%, 80%, 80%;
+    background-size: 5%, 5%, 10%, 10%;
 }
 
-.seconds0 :nth-child(3){
-    background-image:  url('theDotDark.png'), url('digits/0.png'), url('digits/0.png')
+
+.seconds1 :nth-child(4){
+    background-image:  url('theDotDark.png'), url('theDotDark.png'), url('digits/1.png'), url('digits/0.png')
 }
-.seconds1 :nth-child(3){
-    background-image:  url('theDotDark.png'), url('digits/1.png'), url('digits/0.png')
+.seconds2 :nth-child(4){
+    background-image:  url('theDot.png'), url('theDot.png'), url('digits/2.png'), url('digits/0.png')
 }
-.seconds2 :nth-child(3){
-    background-image:  url('theDot.png'), url('digits/2.png'), url('digits/0.png')
+.seconds3 :nth-child(4){
+    background-image:  url('theDotDark.png'), url('theDotDark.png'), url('digits/3.png'), url('digits/0.png')
 }
-.seconds3 :nth-child(3){
-    background-image:  url('theDotDark.png'), url('digits/3.png'), url('digits/0.png')
+.seconds4 :nth-child(4){
+    background-image:  url('theDot.png'), url('theDot.png'), url('digits/4.png'), url('digits/0.png')
 }
-.seconds4 :nth-child(3){
-    background-image:  url('theDot.png'), url('digits/4.png'), url('digits/0.png')
+.seconds5 :nth-child(4){
+    background-image:  url('theDotDark.png'), url('theDotDark.png'), url('digits/5.png'), url('digits/0.png')
 }
-.seconds5 :nth-child(3){
-    background-image:  url('theDotDark.png'), url('digits/5.png'), url('digits/0.png')
+.seconds6 :nth-child(4){
+    background-image:  url('theDot.png'), url('theDot.png'), url('digits/6.png'), url('digits/0.png')
 }
-.seconds6 :nth-child(3){
-    background-image:  url('theDot.png'), url('digits/6.png'), url('digits/0.png')
+.seconds7 :nth-child(4){
+    background-image:  url('theDotDark.png'), url('theDotDark.png'), url('digits/7.png'), url('digits/0.png')
 }
-.seconds7 :nth-child(3){
-    background-image:  url('theDotDark.png'), url('digits/7.png'), url('digits/0.png')
+.seconds8 :nth-child(4){
+    background-image:  url('theDot.png'), url('theDot.png'), url('digits/8.png'), url('digits/0.png')
 }
-.seconds8 :nth-child(3){
-    background-image:  url('theDot.png'), url('digits/8.png'), url('digits/0.png')
+.seconds9 :nth-child(4){
+    background-image:  url('theDotDark.png'), url('theDotDark.png'), url('digits/9.png'), url('digits/0.png')
 }
-.seconds9 :nth-child(3){
-    background-image:  url('theDotDark.png'), url('digits/9.png'), url('digits/0.png')
+.seconds10 :nth-child(4){
+    background-image:  url('theDot.png'), url('theDot.png'), url('digits/0.png'), url('digits/1.png')
 }
-.seconds10 :nth-child(3){
-    background-image:  url('theDot.png'), url('digits/0.png'), url('digits/1.png')
+.seconds11 :nth-child(4){
+    background-image:  url('theDotDark.png'), url('theDotDark.png'), url('digits/1.png'), url('digits/1.png')
 }
-.seconds11 :nth-child(3){
-    background-image:  url('theDotDark.png'), url('digits/1.png'), url('digits/1.png')
+.seconds12 :nth-child(4){
+    background-image:  url('theDot.png'), url('theDot.png'), url('digits/2.png'), url('digits/1.png')
 }
-.seconds12 :nth-child(3){
-    background-image:  url('theDot.png'), url('digits/2.png'), url('digits/1.png')
+.seconds13 :nth-child(4){
+    background-image:  url('theDotDark.png'), url('theDotDark.png'), url('digits/3.png'), url('digits/1.png')
 }
-.seconds13 :nth-child(3){
-    background-image:  url('theDotDark.png'), url('digits/3.png'), url('digits/1.png')
+.seconds14 :nth-child(4){
+    background-image:  url('theDot.png'), url('theDot.png'), url('digits/4.png'), url('digits/1.png')
 }
-.seconds14 :nth-child(3){
-    background-image:  url('theDot.png'), url('digits/4.png'), url('digits/1.png')
+.seconds15 :nth-child(4){
+    background-image:  url('theDotDark.png'), url('theDotDark.png'), url('digits/5.png'), url('digits/1.png')
 }
-.seconds15 :nth-child(3){
-    background-image:  url('theDotDark.png'), url('digits/5.png'), url('digits/1.png')
+.seconds16 :nth-child(4){
+    background-image:  url('theDot.png'), url('theDot.png'), url('digits/6.png'), url('digits/1.png')
 }
-.seconds16 :nth-child(3){
-    background-image:  url('theDot.png'), url('digits/6.png'), url('digits/1.png')
+.seconds17 :nth-child(4){
+    background-image:  url('theDotDark.png'), url('theDotDark.png'), url('digits/7.png'), url('digits/1.png')
 }
-.seconds17 :nth-child(3){
-    background-image:  url('theDotDark.png'), url('digits/7.png'), url('digits/1.png')
+.seconds18 :nth-child(4){
+    background-image:  url('theDot.png'), url('theDot.png'), url('digits/8.png'), url('digits/1.png')
 }
-.seconds18 :nth-child(3){
-    background-image:  url('theDot.png'), url('digits/8.png'), url('digits/1.png')
+.seconds19 :nth-child(4){
+    background-image:  url('theDotDark.png'), url('theDotDark.png'), url('digits/9.png'), url('digits/1.png')
 }
-.seconds19 :nth-child(3){
-    background-image:  url('theDotDark.png'), url('digits/9.png'), url('digits/1.png')
+.seconds20 :nth-child(4){
+    background-image:  url('theDot.png'), url('theDot.png'), url('digits/0.png'), url('digits/2.png')
 }
-.seconds20 :nth-child(3){
-    background-image:  url('theDot.png'), url('digits/0.png'), url('digits/2.png')
+.seconds21 :nth-child(4){
+    background-image:  url('theDotDark.png'), url('theDotDark.png'), url('digits/1.png'), url('digits/2.png')
 }
-.seconds21 :nth-child(3){
-    background-image:  url('theDotDark.png'), url('digits/1.png'), url('digits/2.png')
+.seconds22 :nth-child(4){
+    background-image:  url('theDot.png'), url('theDot.png'), url('digits/2.png'), url('digits/2.png')
 }
-.seconds22 :nth-child(3){
-    background-image:  url('theDot.png'), url('digits/2.png'), url('digits/2.png')
+.seconds23 :nth-child(4){
+    background-image:  url('theDotDark.png'), url('theDotDark.png'), url('digits/3.png'), url('digits/2.png')
 }
-.seconds23 :nth-child(3){
-    background-image:  url('theDotDark.png'), url('digits/3.png'), url('digits/2.png')
+.seconds24 :nth-child(4){
+    background-image:  url('theDot.png'), url('theDot.png'), url('digits/4.png'), url('digits/2.png')
 }
-.seconds24 :nth-child(3){
-    background-image:  url('theDot.png'), url('digits/4.png'), url('digits/2.png')
+.seconds25 :nth-child(4){
+    background-image:  url('theDotDark.png'), url('theDotDark.png'), url('digits/5.png'), url('digits/2.png')
 }
-.seconds25 :nth-child(3){
-    background-image:  url('theDotDark.png'), url('digits/5.png'), url('digits/2.png')
+.seconds26 :nth-child(4){
+    background-image:  url('theDot.png'), url('theDot.png'), url('digits/6.png'), url('digits/2.png')
 }
-.seconds26 :nth-child(3){
-    background-image:  url('theDot.png'), url('digits/6.png'), url('digits/2.png')
+.seconds27 :nth-child(4){
+    background-image:  url('theDotDark.png'), url('theDotDark.png'), url('digits/7.png'), url('digits/2.png')
 }
-.seconds27 :nth-child(3){
-    background-image:  url('theDotDark.png'), url('digits/7.png'), url('digits/2.png')
+.seconds28 :nth-child(4){
+    background-image:  url('theDot.png'), url('theDot.png'), url('digits/8.png'), url('digits/2.png')
 }
-.seconds28 :nth-child(3){
-    background-image:  url('theDot.png'), url('digits/8.png'), url('digits/2.png')
+.seconds29 :nth-child(4){
+    background-image:  url('theDotDark.png'), url('theDotDark.png'), url('digits/9.png'), url('digits/2.png')
 }
-.seconds29 :nth-child(3){
-    background-image:  url('theDotDark.png'), url('digits/9.png'), url('digits/2.png')
+.seconds30 :nth-child(4){
+    background-image:  url('theDot.png'), url('theDot.png'), url('digits/0.png'), url('digits/3.png')
 }
-.seconds30 :nth-child(3){
-    background-image:  url('theDot.png'), url('digits/0.png'), url('digits/3.png')
+.seconds31 :nth-child(4){
+    background-image:  url('theDotDark.png'), url('theDotDark.png'), url('digits/1.png'), url('digits/3.png')
 }
-.seconds31 :nth-child(3){
-    background-image:  url('theDotDark.png'), url('digits/1.png'), url('digits/3.png')
+.seconds32 :nth-child(4){
+    background-image:  url('theDot.png'), url('theDot.png'), url('digits/2.png'), url('digits/3.png')
 }
-.seconds32 :nth-child(3){
-    background-image:  url('theDot.png'), url('digits/2.png'), url('digits/3.png')
+.seconds33 :nth-child(4){
+    background-image:  url('theDotDark.png'), url('theDotDark.png'), url('digits/3.png'), url('digits/3.png')
 }
-.seconds33 :nth-child(3){
-    background-image:  url('theDotDark.png'), url('digits/3.png'), url('digits/3.png')
+.seconds34 :nth-child(4){
+    background-image:  url('theDot.png'), url('theDot.png'), url('digits/4.png'), url('digits/3.png')
 }
-.seconds34 :nth-child(3){
-    background-image:  url('theDot.png'), url('digits/4.png'), url('digits/3.png')
+.seconds35 :nth-child(4){
+    background-image:  url('theDotDark.png'), url('theDotDark.png'), url('digits/5.png'), url('digits/3.png')
 }
-.seconds35 :nth-child(3){
-    background-image:  url('theDotDark.png'), url('digits/5.png'), url('digits/3.png')
+.seconds36 :nth-child(4){
+    background-image:  url('theDot.png'), url('theDot.png'), url('digits/6.png'), url('digits/3.png')
 }
-.seconds36 :nth-child(3){
-    background-image:  url('theDot.png'), url('digits/6.png'), url('digits/3.png')
+.seconds37 :nth-child(4){
+    background-image:  url('theDotDark.png'), url('theDotDark.png'), url('digits/7.png'), url('digits/3.png')
 }
-.seconds37 :nth-child(3){
-    background-image:  url('theDotDark.png'), url('digits/7.png'), url('digits/3.png')
+.seconds38 :nth-child(4){
+    background-image:  url('theDot.png'), url('theDot.png'), url('digits/8.png'), url('digits/3.png')
 }
-.seconds38 :nth-child(3){
-    background-image:  url('theDot.png'), url('digits/8.png'), url('digits/3.png')
+.seconds39 :nth-child(4){
+    background-image:  url('theDotDark.png'), url('theDotDark.png'), url('digits/9.png'), url('digits/3.png')
 }
-.seconds39 :nth-child(3){
-    background-image:  url('theDotDark.png'), url('digits/9.png'), url('digits/3.png')
+.seconds40 :nth-child(4){
+    background-image:  url('theDot.png'), url('theDot.png'), url('digits/0.png'), url('digits/4.png')
 }
-.seconds40 :nth-child(3){
-    background-image:  url('theDot.png'), url('digits/0.png'), url('digits/4.png')
+.seconds41 :nth-child(4){
+    background-image:  url('theDotDark.png'), url('theDotDark.png'), url('digits/1.png'), url('digits/4.png')
 }
-.seconds41 :nth-child(3){
-    background-image:  url('theDotDark.png'), url('digits/1.png'), url('digits/4.png')
+.seconds42 :nth-child(4){
+    background-image:  url('theDot.png'), url('theDot.png'), url('digits/2.png'), url('digits/4.png')
 }
-.seconds42 :nth-child(3){
-    background-image:  url('theDot.png'), url('digits/2.png'), url('digits/4.png')
+.seconds43 :nth-child(4){
+    background-image:  url('theDotDark.png'), url('theDotDark.png'), url('digits/3.png'), url('digits/4.png')
 }
-.seconds43 :nth-child(3){
-    background-image:  url('theDotDark.png'), url('digits/3.png'), url('digits/4.png')
+.seconds44 :nth-child(4){
+    background-image:  url('theDot.png'), url('theDot.png'), url('digits/4.png'), url('digits/4.png')
 }
-.seconds44 :nth-child(3){
-    background-image:  url('theDot.png'), url('digits/4.png'), url('digits/4.png')
+.seconds45 :nth-child(4){
+    background-image:  url('theDotDark.png'), url('theDotDark.png'), url('digits/5.png'), url('digits/4.png')
 }
-.seconds45 :nth-child(3){
-    background-image:  url('theDotDark.png'), url('digits/5.png'), url('digits/4.png')
+.seconds46 :nth-child(4){
+    background-image:  url('theDot.png'), url('theDot.png'), url('digits/6.png'), url('digits/4.png')
 }
-.seconds46 :nth-child(3){
-    background-image:  url('theDot.png'), url('digits/6.png'), url('digits/4.png')
+.seconds47 :nth-child(4){
+    background-image:  url('theDotDark.png'), url('theDotDark.png'), url('digits/7.png'), url('digits/4.png')
 }
-.seconds47 :nth-child(3){
-    background-image:  url('theDotDark.png'), url('digits/7.png'), url('digits/4.png')
+.seconds48 :nth-child(4){
+    background-image:  url('theDot.png'), url('theDot.png'), url('digits/8.png'), url('digits/4.png')
 }
-.seconds48 :nth-child(3){
-    background-image:  url('theDot.png'), url('digits/8.png'), url('digits/4.png')
+.seconds49 :nth-child(4){
+    background-image:  url('theDotDark.png'), url('theDotDark.png'), url('digits/9.png'), url('digits/4.png')
 }
-.seconds49 :nth-child(3){
-    background-image:  url('theDotDark.png'), url('digits/9.png'), url('digits/4.png')
+.seconds50 :nth-child(4){
+    background-image:  url('theDot.png'), url('theDot.png'), url('digits/0.png'), url('digits/5.png')
 }
-.seconds50 :nth-child(3){
-    background-image:  url('theDot.png'), url('digits/0.png'), url('digits/5.png')
+.seconds51 :nth-child(4){
+    background-image:  url('theDotDark.png'), url('theDotDark.png'), url('digits/1.png'), url('digits/5.png')
 }
-.seconds51 :nth-child(3){
-    background-image:  url('theDotDark.png'), url('digits/1.png'), url('digits/5.png')
+.seconds52 :nth-child(4){
+    background-image:  url('theDot.png'), url('theDot.png'), url('digits/2.png'), url('digits/5.png')
 }
-.seconds52 :nth-child(3){
-    background-image:  url('theDot.png'), url('digits/2.png'), url('digits/5.png')
+.seconds53 :nth-child(4){
+    background-image:  url('theDotDark.png'), url('theDotDark.png'), url('digits/3.png'), url('digits/5.png')
 }
-.seconds53 :nth-child(3){
-    background-image:  url('theDotDark.png'), url('digits/3.png'), url('digits/5.png')
+.seconds54 :nth-child(4){
+    background-image:  url('theDot.png'), url('theDot.png'), url('digits/4.png'), url('digits/5.png')
 }
-.seconds54 :nth-child(3){
-    background-image:  url('theDot.png'), url('digits/4.png'), url('digits/5.png')
+.seconds55 :nth-child(4){
+    background-image:  url('theDotDark.png'), url('theDotDark.png'), url('digits/5.png'), url('digits/5.png')
 }
-.seconds55 :nth-child(3){
-    background-image:  url('theDotDark.png'), url('digits/5.png'), url('digits/5.png')
+.seconds56 :nth-child(4){
+    background-image:  url('theDot.png'), url('theDot.png'), url('digits/6.png'), url('digits/5.png')
 }
-.seconds56 :nth-child(3){
-    background-image:  url('theDot.png'), url('digits/6.png'), url('digits/5.png')
+.seconds57 :nth-child(4){
+    background-image:  url('theDotDark.png'), url('theDotDark.png'), url('digits/7.png'), url('digits/5.png')
 }
-.seconds57 :nth-child(3){
-    background-image:  url('theDotDark.png'), url('digits/7.png'), url('digits/5.png')
+.seconds58 :nth-child(4){
+    background-image:  url('theDot.png'), url('theDot.png'), url('digits/8.png'), url('digits/5.png')
 }
-.seconds58 :nth-child(3){
-    background-image:  url('theDot.png'), url('digits/8.png'), url('digits/5.png')
-}
-.seconds59 :nth-child(3){
-    background-image:  url('theDotDark.png'), url('digits/9.png'), url('digits/5.png')
+.seconds59 :nth-child(4){
+    background-image:  url('theDotDark.png'), url('theDotDark.png'), url('digits/9.png'), url('digits/5.png')
 }
