@@ -1,27 +1,20 @@
 var hours = 7;
 var minutes = 15;
 var seconds = 0;
-var currentTheme = 'Standard';
+var currentTheme = 0;
+var themes = ['Standard','CuteDigital','Blocky'];
 
 function fnChangeClock(){
 
     //alert('there you go !');
-    changeTheme();
+    currentTheme++;
+    if(currentTheme >= themes.length) currentTheme = 0;
 
-    $("#mainCss").attr('href','Clock/'+ currentTheme +'/main.css');
-    $("#hoursCss").attr('href','Clock/'+ currentTheme +'/hours.css');
-    $("#minutesCss").attr('href','Clock/'+ currentTheme +'/minutes.css');
-    $("#secondsCss").attr('href','Clock/'+ currentTheme +'/seconds.css');
+    $("#mainCss").attr('href','Clock/'+ themes[currentTheme] +'/main.css');
+    $("#hoursCss").attr('href','Clock/'+ themes[currentTheme] +'/hours.css');
+    $("#minutesCss").attr('href','Clock/'+ themes[currentTheme] +'/minutes.css');
+    $("#secondsCss").attr('href','Clock/'+ themes[currentTheme] +'/seconds.css');
 
-}
-
-function changeTheme(){
-
-    if(currentTheme == 'Standard')
-        currentTheme = 'CuteDigital';
-    
-    else if(currentTheme == 'CuteDigital')
-        currentTheme = 'Standard';
 }
 
 function init() {

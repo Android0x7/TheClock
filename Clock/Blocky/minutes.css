@@ -1,0 +1,189 @@
+.clock :nth-child(5){
+    background-position-x: 98%, 70%;
+    background-position-y: 50%;
+    background-size: 20% 65%;
+}
+
+.minutes0 :nth-child(5){
+    background-image:  url('digits/0.png'), url('digits/0.png')
+}
+.minutes1 :nth-child(5){
+    background-image:  url('digits/1.png'), url('digits/0.png')
+}
+.minutes1 :nth-child(5){
+    background-image:  url('digits/1.png'), url('digits/0.png')
+}
+.minutes2 :nth-child(5){
+    background-image:  url('digits/2.png'), url('digits/0.png')
+}
+.minutes3 :nth-child(5){
+    background-image:  url('digits/3.png'), url('digits/0.png')
+}
+.minutes4 :nth-child(5){
+    background-image:  url('digits/4.png'), url('digits/0.png')
+}
+.minutes5 :nth-child(5){
+    background-image:  url('digits/5.png'), url('digits/0.png')
+}
+.minutes6 :nth-child(5){
+    background-image:  url('digits/6.png'), url('digits/0.png')
+}
+.minutes7 :nth-child(5){
+    background-image:  url('digits/7.png'), url('digits/0.png')
+}
+.minutes8 :nth-child(5){
+    background-image:  url('digits/8.png'), url('digits/0.png')
+}
+.minutes9 :nth-child(5){
+    background-image:  url('digits/9.png'), url('digits/0.png')
+}
+.minutes10 :nth-child(5){
+    background-image:  url('digits/0.png'), url('digits/1.png')
+}
+.minutes11 :nth-child(5){
+    background-image:  url('digits/1.png'), url('digits/1.png')
+}
+.minutes12 :nth-child(5){
+    background-image:  url('digits/2.png'), url('digits/1.png')
+}
+.minutes13 :nth-child(5){
+    background-image:  url('digits/3.png'), url('digits/1.png')
+}
+.minutes14 :nth-child(5){
+    background-image:  url('digits/4.png'), url('digits/1.png')
+}
+.minutes15 :nth-child(5){
+    background-image:  url('digits/5.png'), url('digits/1.png')
+}
+.minutes16 :nth-child(5){
+    background-image:  url('digits/6.png'), url('digits/1.png')
+}
+.minutes17 :nth-child(5){
+    background-image:  url('digits/7.png'), url('digits/1.png')
+}
+.minutes18 :nth-child(5){
+    background-image:  url('digits/8.png'), url('digits/1.png')
+}
+.minutes19 :nth-child(5){
+    background-image:  url('digits/9.png'), url('digits/1.png')
+}
+.minutes20 :nth-child(5){
+    background-image:  url('digits/0.png'), url('digits/2.png')
+}
+.minutes21 :nth-child(5){
+    background-image:  url('digits/1.png'), url('digits/2.png')
+}
+.minutes22 :nth-child(5){
+    background-image:  url('digits/2.png'), url('digits/2.png')
+}
+.minutes23 :nth-child(5){
+    background-image:  url('digits/3.png'), url('digits/2.png')
+}
+.minutes24 :nth-child(5){
+    background-image:  url('digits/4.png'), url('digits/2.png')
+}
+.minutes25 :nth-child(5){
+    background-image:  url('digits/5.png'), url('digits/2.png')
+}
+.minutes26 :nth-child(5){
+    background-image:  url('digits/6.png'), url('digits/2.png')
+}
+.minutes27 :nth-child(5){
+    background-image:  url('digits/7.png'), url('digits/2.png')
+}
+.minutes28 :nth-child(5){
+    background-image:  url('digits/8.png'), url('digits/2.png')
+}
+.minutes29 :nth-child(5){
+    background-image:  url('digits/9.png'), url('digits/2.png')
+}
+.minutes30 :nth-child(5){
+    background-image:  url('digits/0.png'), url('digits/3.png')
+}
+.minutes31 :nth-child(5){
+    background-image:  url('digits/1.png'), url('digits/3.png')
+}
+.minutes32 :nth-child(5){
+    background-image:  url('digits/2.png'), url('digits/3.png')
+}
+.minutes33 :nth-child(5){
+    background-image:  url('digits/3.png'), url('digits/3.png')
+}
+.minutes34 :nth-child(5){
+    background-image:  url('digits/4.png'), url('digits/3.png')
+}
+.minutes35 :nth-child(5){
+    background-image:  url('digits/5.png'), url('digits/3.png')
+}
+.minutes36 :nth-child(5){
+    background-image:  url('digits/6.png'), url('digits/3.png')
+}
+.minutes37 :nth-child(5){
+    background-image:  url('digits/7.png'), url('digits/3.png')
+}
+.minutes38 :nth-child(5){
+    background-image:  url('digits/8.png'), url('digits/3.png')
+}
+.minutes39 :nth-child(5){
+    background-image:  url('digits/9.png'), url('digits/3.png')
+}
+.minutes40 :nth-child(5){
+    background-image:  url('digits/0.png'), url('digits/4.png')
+}
+.minutes41 :nth-child(5){
+    background-image:  url('digits/1.png'), url('digits/4.png')
+}
+.minutes42 :nth-child(5){
+    background-image:  url('digits/2.png'), url('digits/4.png')
+}
+.minutes43 :nth-child(5){
+    background-image:  url('digits/3.png'), url('digits/4.png')
+}
+.minutes44 :nth-child(5){
+    background-image:  url('digits/4.png'), url('digits/4.png')
+}
+.minutes45 :nth-child(5){
+    background-image:  url('digits/5.png'), url('digits/4.png')
+}
+.minutes46 :nth-child(5){
+    background-image:  url('digits/6.png'), url('digits/4.png')
+}
+.minutes47 :nth-child(5){
+    background-image:  url('digits/7.png'), url('digits/4.png')
+}
+.minutes48 :nth-child(5){
+    background-image:  url('digits/8.png'), url('digits/4.png')
+}
+.minutes49 :nth-child(5){
+    background-image:  url('digits/9.png'), url('digits/4.png')
+}
+.minutes50 :nth-child(5){
+    background-image:  url('digits/0.png'), url('digits/5.png')
+}
+.minutes51 :nth-child(5){
+    background-image:  url('digits/1.png'), url('digits/5.png')
+}
+.minutes52 :nth-child(5){
+    background-image:  url('digits/2.png'), url('digits/5.png')
+}
+.minutes53 :nth-child(5){
+    background-image:  url('digits/3.png'), url('digits/5.png')
+}
+.minutes54 :nth-child(5){
+    background-image:  url('digits/4.png'), url('digits/5.png')
+}
+.minutes55 :nth-child(5){
+    background-image:  url('digits/5.png'), url('digits/5.png')
+}
+.minutes56 :nth-child(5){
+    background-image:  url('digits/6.png'), url('digits/5.png')
+}
+.minutes57 :nth-child(5){
+    background-image:  url('digits/7.png'), url('digits/5.png')
+}
+.minutes58 :nth-child(5){
+    background-image:  url('digits/8.png'), url('digits/5.png')
+}
+.minutes59 :nth-child(5){
+    background-image:  url('digits/9.png'), url('digits/5.png')
+}

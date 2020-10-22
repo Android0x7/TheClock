@@ -1,0 +1,39 @@
+html body {margin:0;padding:0}
+
+.clock
+{
+    xmargin: 10;
+    xpadding: 10;
+    height: 100vh;
+    xwidth: 100%;
+    xbackground: #f8bcce;
+
+}
+
+.clock > div
+{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size:  100% 100%;
+    xbackground-position: center;
+    position: absolute;
+}
+
+.clock :nth-child(1){
+    background: black;
+    xborder-radius: 200px;
+    xmargin-top: 10%;
+
+}
+
+.clock :nth-child(2){
+    xbackground: pink;
+    border-radius: 150px;
+    xmargin-top: 10%;
+
+}
+
+

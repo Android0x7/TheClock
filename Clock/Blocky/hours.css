@@ -1,0 +1,198 @@
+.clock :nth-child(3){
+    background-position-x: 30%, 2%;
+    background-position-y: 50%;
+    background-size: 20% 65%;
+}
+
+.hours0-0 :nth-child(3),
+.hours0-1 :nth-child(3),
+.hours0-2 :nth-child(3),
+.hours0-3 :nth-child(3),
+.hours0-4 :nth-child(3)
+{
+background-image: url('digits/0.png'), url('digits/0.png'); 
+}
+.hours1-0 :nth-child(3),
+.hours1-1 :nth-child(3),
+.hours1-2 :nth-child(3),
+.hours1-3 :nth-child(3),
+.hours1-4 :nth-child(3)
+{
+background-image: url('digits/1.png'), url('digits/0.png'); 
+}
+.hours2-0 :nth-child(3),
+.hours2-1 :nth-child(3),
+.hours2-2 :nth-child(3),
+.hours2-3 :nth-child(3),
+.hours2-4 :nth-child(3)
+{
+background-image: url('digits/2.png'), url('digits/0.png'); 
+}
+.hours3-0 :nth-child(3),
+.hours3-1 :nth-child(3),
+.hours3-2 :nth-child(3),
+.hours3-3 :nth-child(3),
+.hours3-4 :nth-child(3)
+{
+background-image: url('digits/3.png'), url('digits/0.png'); 
+}
+.hours4-0 :nth-child(3),
+.hours4-1 :nth-child(3),
+.hours4-2 :nth-child(3),
+.hours4-3 :nth-child(3),
+.hours4-4 :nth-child(3)
+{
+background-image: url('digits/4.png'), url('digits/0.png'); 
+}
+.hours5-0 :nth-child(3),
+.hours5-1 :nth-child(3),
+.hours5-2 :nth-child(3),
+.hours5-3 :nth-child(3),
+.hours5-4 :nth-child(3)
+{
+background-image: url('digits/5.png'), url('digits/0.png'); 
+}
+.hours6-0 :nth-child(3),
+.hours6-1 :nth-child(3),
+.hours6-2 :nth-child(3),
+.hours6-3 :nth-child(3),
+.hours6-4 :nth-child(3)
+{
+background-image: url('digits/6.png'), url('digits/0.png'); 
+}
+.hours7-0 :nth-child(3),
+.hours7-1 :nth-child(3),
+.hours7-2 :nth-child(3),
+.hours7-3 :nth-child(3),
+.hours7-4 :nth-child(3)
+{
+background-image: url('digits/7.png'), url('digits/0.png'); 
+}
+.hours8-0 :nth-child(3),
+.hours8-1 :nth-child(3),
+.hours8-2 :nth-child(3),
+.hours8-3 :nth-child(3),
+.hours8-4 :nth-child(3)
+{
+background-image: url('digits/8.png'), url('digits/0.png'); 
+}
+.hours9-0 :nth-child(3),
+.hours9-1 :nth-child(3),
+.hours9-2 :nth-child(3),
+.hours9-3 :nth-child(3),
+.hours9-4 :nth-child(3)
+{
+background-image: url('digits/9.png'), url('digits/0.png'); 
+}
+.hours10-0 :nth-child(3),
+.hours10-1 :nth-child(3),
+.hours10-2 :nth-child(3),
+.hours10-3 :nth-child(3),
+.hours10-4 :nth-child(3)
+{
+background-image: url('digits/0.png'), url('digits/1.png'); 
+}
+.hours11-0 :nth-child(3),
+.hours11-1 :nth-child(3),
+.hours11-2 :nth-child(3),
+.hours11-3 :nth-child(3),
+.hours11-4 :nth-child(3)
+{
+background-image: url('digits/1.png'), url('digits/1.png'); 
+}
+.hours12-0 :nth-child(3),
+.hours12-1 :nth-child(3),
+.hours12-2 :nth-child(3),
+.hours12-3 :nth-child(3),
+.hours12-4 :nth-child(3)
+{
+background-image: url('digits/2.png'), url('digits/1.png'); 
+}
+.hours13-0 :nth-child(3),
+.hours13-1 :nth-child(3),
+.hours13-2 :nth-child(3),
+.hours13-3 :nth-child(3),
+.hours13-4 :nth-child(3)
+{
+background-image: url('digits/3.png'), url('digits/1.png'); 
+}
+.hours14-0 :nth-child(3),
+.hours14-1 :nth-child(3),
+.hours14-2 :nth-child(3),
+.hours14-3 :nth-child(3),
+.hours14-4 :nth-child(3)
+{
+background-image: url('digits/4.png'), url('digits/1.png'); 
+}
+.hours15-0 :nth-child(3),
+.hours15-1 :nth-child(3),
+.hours15-2 :nth-child(3),
+.hours15-3 :nth-child(3),
+.hours15-4 :nth-child(3)
+{
+background-image: url('digits/5.png'), url('digits/1.png'); 
+}
+.hours16-0 :nth-child(3),
+.hours16-1 :nth-child(3),
+.hours16-2 :nth-child(3),
+.hours16-3 :nth-child(3),
+.hours16-4 :nth-child(3)
+{
+background-image: url('digits/6.png'), url('digits/1.png'); 
+}
+.hours17-0 :nth-child(3),
+.hours17-1 :nth-child(3),
+.hours17-2 :nth-child(3),
+.hours17-3 :nth-child(3),
+.hours17-4 :nth-child(3)
+{
+background-image: url('digits/7.png'), url('digits/1.png'); 
+}
+.hours18-0 :nth-child(3),
+.hours18-1 :nth-child(3),
+.hours18-2 :nth-child(3),
+.hours18-3 :nth-child(3),
+.hours18-4 :nth-child(3)
+{
+background-image: url('digits/8.png'), url('digits/1.png'); 
+}
+.hours19-0 :nth-child(3),
+.hours19-1 :nth-child(3),
+.hours19-2 :nth-child(3),
+.hours19-3 :nth-child(3),
+.hours19-4 :nth-child(3)
+{
+background-image: url('digits/9.png'), url('digits/1.png'); 
+}
+.hours20-0 :nth-child(3),
+.hours20-1 :nth-child(3),
+.hours20-2 :nth-child(3),
+.hours20-3 :nth-child(3),
+.hours20-4 :nth-child(3)
+{
+background-image: url('digits/0.png'), url('digits/2.png'); 
+}
+.hours21-0 :nth-child(3),
+.hours21-1 :nth-child(3),
+.hours21-2 :nth-child(3),
+.hours21-3 :nth-child(3),
+.hours21-4 :nth-child(3)
+{
+background-image: url('digits/1.png'), url('digits/2.png'); 
+}
+.hours22-0 :nth-child(3),
+.hours22-1 :nth-child(3),
+.hours22-2 :nth-child(3),
+.hours22-3 :nth-child(3),
+.hours22-4 :nth-child(3)
+{
+background-image: url('digits/2.png'), url('digits/2.png'); 
+}
+.hours23-0 :nth-child(3),
+.hours23-1 :nth-child(3),
+.hours23-2 :nth-child(3),
+.hours23-3 :nth-child(3),
+.hours23-4 :nth-child(3)
+{
+background-image: url('digits/3.png'), url('digits/2.png'); 
+}
