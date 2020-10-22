@@ -4,7 +4,9 @@
     background-size: 5%, 5%, 10%, 10%;
 }
 
-
+.seconds0 :nth-child(4){
+    background-image:  url('theDot.png'), url('theDot.png'), url('digits/0.png'), url('digits/0.png')
+}
 .seconds1 :nth-child(4){
     background-image:  url('theDotDark.png'), url('theDotDark.png'), url('digits/1.png'), url('digits/0.png')
 }

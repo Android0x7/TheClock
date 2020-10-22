@@ -7,13 +7,13 @@
     <meta http-equiv="X-Content-Security-Policy" content="default-src 'self'; script-src 'self'"> -->
     <title>Hello World!</title>
     <script src="https://code.jquery.com/jquery-3.2.1.js"></script>
-    <link rel='stylesheet' href='Clock/CuteDigital/main.css' />
-    <link rel='stylesheet' href='Clock/CuteDigital/hours.css' />
-    <link rel='stylesheet' href='Clock/CuteDigital/minutes.css' />
-    <link rel='stylesheet' href='Clock/CuteDigital/seconds.css' />
+    <link id='mainCss' rel='stylesheet' href='Clock/Standard/main.css' />
+    <link id='hoursCss' rel='stylesheet' href='Clock/Standard/hours.css' />
+    <link id='minutesCss' rel='stylesheet' href='Clock/Standard/minutes.css' />
+    <link id='secondsCss' rel='stylesheet' href='Clock/Standard/seconds.css' />
     <script src="./engine.js"></script>
   </head>
-  <body>
+  <body onclick='fnChangeClock()'>
 
     <div class='clock'>
       <div></div>

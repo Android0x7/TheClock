@@ -4,6 +4,12 @@
     background-size: 25% 90%;
 }
 
+.minutes0 :nth-child(5){
+    background-image:  url('digits/0.png'), url('digits/0.png')
+}
+.minutes1 :nth-child(5){
+    background-image:  url('digits/1.png'), url('digits/0.png')
+}
 .minutes1 :nth-child(5){
     background-image:  url('digits/1.png'), url('digits/0.png')
 }

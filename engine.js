@@ -1,8 +1,28 @@
 var hours = 7;
 var minutes = 15;
 var seconds = 0;
+var currentTheme = 'Standard';
 
-//var clock = document.getElementById('clock');
+function fnChangeClock(){
+
+    //alert('there you go !');
+    changeTheme();
+
+    $("#mainCss").attr('href','Clock/'+ currentTheme +'/main.css');
+    $("#hoursCss").attr('href','Clock/'+ currentTheme +'/hours.css');
+    $("#minutesCss").attr('href','Clock/'+ currentTheme +'/minutes.css');
+    $("#secondsCss").attr('href','Clock/'+ currentTheme +'/seconds.css');
+
+}
+
+function changeTheme(){
+
+    if(currentTheme == 'Standard')
+        currentTheme = 'CuteDigital';
+    
+    else if(currentTheme == 'CuteDigital')
+        currentTheme = 'Standard';
+}
 
 function init() {
  //console.log('engine init');
@@ -15,8 +35,12 @@ function init() {
 
 
 function showTime() {
-    var now = new Date();
+    var now = new Date();    
     var hour = now.getHours();
+
+    hour = hour % 12;
+    hour = hour ? hour : 12;
+
     var minute = now.getMinutes();
     var second = now.getSeconds();
     

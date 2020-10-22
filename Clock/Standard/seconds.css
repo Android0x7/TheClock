@@ -1,271 +1,271 @@
-.seconds0 :nth-child(2){
+.seconds0 :nth-child(4){
     
-    background-image: url("seconds/0.png");
+    background-image: url("seconds/060.png");
 }
 
-.seconds1 :nth-child(2){
+.seconds1 :nth-child(4){
     
-    background-image: url("seconds/1.png");
+    background-image: url("seconds/01.png");
 }
-.seconds2 :nth-child(2){
+.seconds2 :nth-child(4){
     
-    background-image: url("seconds/2.png");
-}
-
-.seconds3 :nth-child(2){
-    
-    background-image: url("seconds/3.png");
-}
-.seconds4 :nth-child(2){
-    
-    background-image: url("seconds/4.png");
+    background-image: url("seconds/02.png");
 }
 
-.seconds5 :nth-child(2){
+.seconds3 :nth-child(4){
     
-    background-image: url("seconds/5.png");
+    background-image: url("seconds/03.png");
 }
-.seconds6 :nth-child(2){
+.seconds4 :nth-child(4){
     
-    background-image: url("seconds/6.png");
-}
-
-.seconds7 :nth-child(2){
-    
-    background-image: url("seconds/7.png");
-}
-.seconds8 :nth-child(2){
-    
-    background-image: url("seconds/8.png");
-}
-.seconds9 :nth-child(2){
-    
-    background-image: url("seconds/9.png");
+    background-image: url("seconds/04.png");
 }
 
-.seconds10 :nth-child(2){
+.seconds5 :nth-child(4){
     
-    background-image: url("seconds/10.png");
+    background-image: url("seconds/05.png");
 }
-.seconds11 :nth-child(2){
+.seconds6 :nth-child(4){
     
-    background-image: url("seconds/11.png");
-}
-
-.seconds12 :nth-child(2){
-    
-    background-image: url("seconds/12.png");
-}
-.seconds13 :nth-child(2){
-    
-    background-image: url("seconds/13.png");
+    background-image: url("seconds/06.png");
 }
 
-.seconds14 :nth-child(2){
+.seconds7 :nth-child(4){
     
-    background-image: url("seconds/14.png");
+    background-image: url("seconds/07.png");
 }
-.seconds15 :nth-child(2){
+.seconds8 :nth-child(4){
     
-    background-image: url("seconds/15.png");
+    background-image: url("seconds/08.png");
 }
-
-.seconds16 :nth-child(2){
+.seconds9 :nth-child(4){
     
-    background-image: url("seconds/16.png");
-}
-
-.seconds17 :nth-child(2){
-    
-    background-image: url("seconds/17.png");
-}
-.seconds18 :nth-child(2){
-    
-    background-image: url("seconds/18.png");
+    background-image: url("seconds/09.png");
 }
 
-.seconds19 :nth-child(2){
+.seconds10 :nth-child(4){
     
-    background-image: url("seconds/19.png");
+    background-image: url("seconds/010.png");
 }
-.seconds20 :nth-child(2){
+.seconds11 :nth-child(4){
     
-    background-image: url("seconds/20.png");
-}
-
-.seconds21 :nth-child(2){
-    
-    background-image: url("seconds/21.png");
-}
-.seconds22 :nth-child(2){
-    
-    background-image: url("seconds/22.png");
+    background-image: url("seconds/011.png");
 }
 
-.seconds23 :nth-child(2){
+.seconds12 :nth-child(4){
     
-    background-image: url("seconds/23.png");
+    background-image: url("seconds/012.png");
 }
-.seconds24 :nth-child(2){
+.seconds13 :nth-child(4){
     
-    background-image: url("seconds/24.png");
-}
-.seconds25 :nth-child(2){
-    
-    background-image: url("seconds/25.png");
+    background-image: url("seconds/013.png");
 }
 
-.seconds26 :nth-child(2){
+.seconds14 :nth-child(4){
     
-    background-image: url("seconds/26.png");
+    background-image: url("seconds/014.png");
 }
-.seconds27 :nth-child(2){
+.seconds15 :nth-child(4){
     
-    background-image: url("seconds/27.png");
-}
-
-.seconds28 :nth-child(2){
-    
-    background-image: url("seconds/28.png");
-}
-.seconds29 :nth-child(2){
-    
-    background-image: url("seconds/29.png");
+    background-image: url("seconds/015.png");
 }
 
-.seconds30 :nth-child(2){
+.seconds16 :nth-child(4){
     
-    background-image: url("seconds/30.png");
+    background-image: url("seconds/016.png");
 }
 
-.seconds31 :nth-child(2){
+.seconds17 :nth-child(4){
     
-    background-image: url("seconds/31.png");
+    background-image: url("seconds/017.png");
+}
+.seconds18 :nth-child(4){
+    
+    background-image: url("seconds/018.png");
 }
 
-.seconds32 :nth-child(2){
+.seconds19 :nth-child(4){
     
-    background-image: url("seconds/32.png");
+    background-image: url("seconds/019.png");
 }
-.seconds33 :nth-child(2){
+.seconds20 :nth-child(4){
     
-    background-image: url("seconds/33.png");
-}
-
-.seconds34 :nth-child(2){
-    
-    background-image: url("seconds/34.png");
-}
-.seconds35 :nth-child(2){
-    
-    background-image: url("seconds/35.png");
+    background-image: url("seconds/020.png");
 }
 
-.seconds36 :nth-child(2){
+.seconds21 :nth-child(4){
     
-    background-image: url("seconds/36.png");
+    background-image: url("seconds/021.png");
 }
-.seconds37 :nth-child(2){
+.seconds22 :nth-child(4){
     
-    background-image: url("seconds/37.png");
-}
-
-.seconds38 :nth-child(2){
-    
-    background-image: url("seconds/38.png");
-}
-.seconds39 :nth-child(2){
-    
-    background-image: url("seconds/39.png");
-}
-.seconds40 :nth-child(2){
-    
-    background-image: url("seconds/40.png");
+    background-image: url("seconds/022.png");
 }
 
-.seconds41 :nth-child(2){
+.seconds23 :nth-child(4){
     
-    background-image: url("seconds/41.png");
+    background-image: url("seconds/023.png");
 }
-.seconds42 :nth-child(2){
+.seconds24 :nth-child(4){
     
-    background-image: url("seconds/42.png");
+    background-image: url("seconds/024.png");
 }
-
-.seconds43 :nth-child(2){
+.seconds25 :nth-child(4){
     
-    background-image: url("seconds/43.png");
-}
-.seconds44 :nth-child(2){
-    
-    background-image: url("seconds/44.png");
+    background-image: url("seconds/025.png");
 }
 
-.seconds45 :nth-child(2){
+.seconds26 :nth-child(4){
     
-    background-image: url("seconds/45.png");
+    background-image: url("seconds/026.png");
 }
-.seconds46 :nth-child(2){
+.seconds27 :nth-child(4){
     
-    background-image: url("seconds/46.png");
-}
-
-.seconds47 :nth-child(2){
-    
-    background-image: url("seconds/47.png");
+    background-image: url("seconds/027.png");
 }
 
-.seconds48 :nth-child(2){
+.seconds28 :nth-child(4){
     
-    background-image: url("seconds/48.png");
+    background-image: url("seconds/028.png");
 }
-.seconds49 :nth-child(2){
+.seconds29 :nth-child(4){
     
-    background-image: url("seconds/49.png");
-}
-
-.seconds50 :nth-child(2){
-    
-    background-image: url("seconds/50.png");
-}
-.seconds51 :nth-child(2){
-    
-    background-image: url("seconds/51.png");
+    background-image: url("seconds/029.png");
 }
 
-.seconds52 :nth-child(2){
+.seconds30 :nth-child(4){
     
-    background-image: url("seconds/52.png");
-}
-.seconds53 :nth-child(2){
-    
-    background-image: url("seconds/53.png");
+    background-image: url("seconds/030.png");
 }
 
-.seconds54 :nth-child(2){
+.seconds31 :nth-child(4){
     
-    background-image: url("seconds/54.png");
-}
-.seconds55 :nth-child(2){
-    
-    background-image: url("seconds/55.png");
-}
-.seconds56 :nth-child(2){
-    
-    background-image: url("seconds/56.png");
+    background-image: url("seconds/031.png");
 }
 
-.seconds57 :nth-child(2){
+.seconds32 :nth-child(4){
     
-    background-image: url("seconds/57.png");
+    background-image: url("seconds/032.png");
 }
-.seconds58 :nth-child(2){
+.seconds33 :nth-child(4){
     
-    background-image: url("seconds/58.png");
+    background-image: url("seconds/033.png");
 }
 
-.seconds59 :nth-child(2){
+.seconds34 :nth-child(4){
     
-    background-image: url("seconds/59.png");
+    background-image: url("seconds/034.png");
+}
+.seconds35 :nth-child(4){
+    
+    background-image: url("seconds/035.png");
+}
+
+.seconds36 :nth-child(4){
+    
+    background-image: url("seconds/036.png");
+}
+.seconds37 :nth-child(4){
+    
+    background-image: url("seconds/037.png");
+}
+
+.seconds38 :nth-child(4){
+    
+    background-image: url("seconds/038.png");
+}
+.seconds39 :nth-child(4){
+    
+    background-image: url("seconds/039.png");
+}
+.seconds40 :nth-child(4){
+    
+    background-image: url("seconds/040.png");
+}
+
+.seconds41 :nth-child(4){
+    
+    background-image: url("seconds/041.png");
+}
+.seconds42 :nth-child(4){
+    
+    background-image: url("seconds/042.png");
+}
+
+.seconds43 :nth-child(4){
+    
+    background-image: url("seconds/043.png");
+}
+.seconds44 :nth-child(4){
+    
+    background-image: url("seconds/044.png");
+}
+
+.seconds45 :nth-child(4){
+    
+    background-image: url("seconds/045.png");
+}
+.seconds46 :nth-child(4){
+    
+    background-image: url("seconds/046.png");
+}
+
+.seconds47 :nth-child(4){
+    
+    background-image: url("seconds/047.png");
+}
+
+.seconds48 :nth-child(4){
+    
+    background-image: url("seconds/048.png");
+}
+.seconds49 :nth-child(4){
+    
+    background-image: url("seconds/049.png");
+}
+
+.seconds50 :nth-child(4){
+    
+    background-image: url("seconds/050.png");
+}
+.seconds51 :nth-child(4){
+    
+    background-image: url("seconds/051.png");
+}
+
+.seconds52 :nth-child(4){
+    
+    background-image: url("seconds/052.png");
+}
+.seconds53 :nth-child(4){
+    
+    background-image: url("seconds/053.png");
+}
+
+.seconds54 :nth-child(4){
+    
+    background-image: url("seconds/054.png");
+}
+.seconds55 :nth-child(4){
+    
+    background-image: url("seconds/055.png");
+}
+.seconds56 :nth-child(4){
+    
+    background-image: url("seconds/056.png");
+}
+
+.seconds57 :nth-child(4){
+    
+    background-image: url("seconds/057.png");
+}
+.seconds58 :nth-child(4){
+    
+    background-image: url("seconds/058.png");
+}
+
+.seconds59 :nth-child(4){
+    
+    background-image: url("seconds/059.png");
 }
 
