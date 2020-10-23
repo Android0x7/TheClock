@@ -1,187 +1,186 @@
 .clock :nth-child(4){
-    background-position-x: 50%;
-    background-position-y: 50%;
-    background-size: 8% 65%;
+    background-position-x: 43%, 43%;
+    background-position-y: 94%, 69.2%;
+    background-size: 4.5% 10%;
 }
-
 
 .seconds0 :nth-child(4){
-    background-image:  url('digits/theDot.png')
+    background-image:  url('digits/theDot.png'), url('digits/theDot.png');;
 }
 .seconds1 :nth-child(4){
-    background-image:  url('')
+    background-image:  url(''),  url('')
 }
 .seconds2 :nth-child(4){
-    background-image:   url('digits/theDot.png')
+    background-image:  url('digits/theDot.png'), url('digits/theDot.png');
 }
 .seconds3 :nth-child(4){
-    background-image:  url('')
+    background-image:  url(''),  url('')
 }
 .seconds4 :nth-child(4){
-    background-image:  url('digits/theDot.png')
+    background-image:  url('digits/theDot.png'), url('digits/theDot.png');
 }
 .seconds5 :nth-child(4){
-    background-image:  url('')
+    background-image:  url(''),  url('')
 }
 .seconds6 :nth-child(4){
-    background-image:  url('digits/theDot.png')
+    background-image:  url('digits/theDot.png'), url('digits/theDot.png');
 }
 .seconds7 :nth-child(4){
-    background-image:  url('')
+    background-image:  url(''),  url('')
 }
 .seconds8 :nth-child(4){
-    background-image:  url('digits/theDot.png')
+    background-image:  url('digits/theDot.png'), url('digits/theDot.png');
 }
 .seconds9 :nth-child(4){
-    background-image:  url('')
+    background-image:  url(''),  url('')
 }
 .seconds10 :nth-child(4){
-    background-image:  url('digits/theDot.png')
+    background-image:  url('digits/theDot.png'), url('digits/theDot.png');
 }
 .seconds11 :nth-child(4){
-    background-image:  url('')
+    background-image:  url(''),  url('')
 }
 .seconds12 :nth-child(4){
-    background-image:  url('digits/theDot.png')
+    background-image:  url('digits/theDot.png'), url('digits/theDot.png');
 }
 .seconds13 :nth-child(4){
-    background-image: url('')
+    background-image: url(''),  url('')
 }
 .seconds14 :nth-child(4){
-    background-image:  url('digits/theDot.png')
+    background-image:  url('digits/theDot.png'), url('digits/theDot.png');
 }
 .seconds15 :nth-child(4){
-    background-image:  url('')
+    background-image:  url(''),  url('')
 }
 .seconds16 :nth-child(4){
-    background-image:  url('digits/theDot.png')
+    background-image:  url('digits/theDot.png'), url('digits/theDot.png');
 }
 .seconds17 :nth-child(4){
-    background-image:  url('')
+    background-image:  url(''),  url('')
 }
 .seconds18 :nth-child(4){
-    background-image:  url('digits/theDot.png')
+    background-image:  url('digits/theDot.png'), url('digits/theDot.png');
 }
 .seconds19 :nth-child(4){
-    background-image:  url('')
+    background-image:  url(''),  url('')
 }
 .seconds20 :nth-child(4){
-    background-image:  url('digits/theDot.png')
+    background-image:  url('digits/theDot.png'), url('digits/theDot.png');
 }
 .seconds21 :nth-child(4){
-    background-image:  url('')
+    background-image:  url(''),  url('')
 }
 .seconds22 :nth-child(4){
-    background-image:  url('digits/theDot.png')
+    background-image:  url('digits/theDot.png'), url('digits/theDot.png');
 }
 .seconds23 :nth-child(4){
-    background-image:  url('')
+    background-image:  url(''),  url('')
 }
 .seconds24 :nth-child(4){
-    background-image:  url('digits/theDot.png')
+    background-image:  url('digits/theDot.png'), url('digits/theDot.png');
 }
 .seconds25 :nth-child(4){
-    background-image:  url('')
+    background-image:  url(''),  url('')
 }
 .seconds26 :nth-child(4){
-    background-image:  url('digits/theDot.png')
+    background-image:  url('digits/theDot.png'), url('digits/theDot.png');
 }
 .seconds27 :nth-child(4){
-    background-image: url('')
+    background-image: url(''),  url('')
 }
 .seconds28 :nth-child(4){
-    background-image:  url('digits/theDot.png')
+    background-image:  url('digits/theDot.png'), url('digits/theDot.png');
 }
 .seconds29 :nth-child(4){
-    background-image:  url('')
+    background-image:  url(''),  url('')
 }
 .seconds30 :nth-child(4){
-    background-image:  url('digits/theDot.png')
+    background-image:  url('digits/theDot.png'), url('digits/theDot.png');
 }
 .seconds31 :nth-child(4){
-    background-image:  url('')
+    background-image:  url(''),  url('')
 }
 .seconds32 :nth-child(4){
-    background-image:  url('digits/theDot.png')
+    background-image:  url('digits/theDot.png'), url('digits/theDot.png');
 }
 .seconds33 :nth-child(4){
-    background-image:  url('')
+    background-image:  url(''),  url('')
 }
 .seconds34 :nth-child(4){
-    background-image:  url('digits/theDot.png')
+    background-image:  url('digits/theDot.png'), url('digits/theDot.png');
 }
 .seconds35 :nth-child(4){
-    background-image:  url('')
+    background-image:  url(''),  url('')
 }
 .seconds36 :nth-child(4){
-    background-image:  url('digits/theDot.png')
+    background-image:  url('digits/theDot.png'), url('digits/theDot.png');
 }
 .seconds37 :nth-child(4){
-    background-image:  url('')
+    background-image:  url(''),  url('')
 }
 .seconds38 :nth-child(4){
-    background-image:  url('digits/theDot.png')
+    background-image:  url('digits/theDot.png'), url('digits/theDot.png');
 }
 .seconds39 :nth-child(4){
-    background-image:  url('')
+    background-image:  url(''),  url('')
 }
 .seconds40 :nth-child(4){
-    background-image:  url('digits/theDot.png')
+    background-image:  url('digits/theDot.png'), url('digits/theDot.png');
 }
 .seconds41 :nth-child(4){
-    background-image:  url('')
+    background-image:  url(''),  url('')
 }
 .seconds42 :nth-child(4){
-    background-image:  url('digits/theDot.png')
+    background-image:  url('digits/theDot.png'), url('digits/theDot.png');
 }
 .seconds43 :nth-child(4){
-    background-image:  url('')
+    background-image:  url(''),  url('')
 }
 .seconds44 :nth-child(4){
-    background-image:  url('digits/theDot.png')
+    background-image:  url('digits/theDot.png'), url('digits/theDot.png');
 }
 .seconds45 :nth-child(4){
-    background-image: url('')
+    background-image: url(''),  url('')
 }
 .seconds46 :nth-child(4){
-    background-image:  url('digits/theDot.png')
+    background-image:  url('digits/theDot.png'), url('digits/theDot.png');
 }
 .seconds47 :nth-child(4){
-    background-image:  url('')
+    background-image:  url(''),  url('')
 }
 .seconds48 :nth-child(4){
-    background-image:  url('digits/theDot.png')
+    background-image:  url('digits/theDot.png'), url('digits/theDot.png');
 }
 .seconds49 :nth-child(4){
-    background-image: url('')
+    background-image: url(''),  url('')
 }
 .seconds50 :nth-child(4){
-    background-image:  url('digits/theDot.png')
+    background-image:  url('digits/theDot.png'), url('digits/theDot.png');
 }
 .seconds51 :nth-child(4){
-    background-image:  url('')
+    background-image:  url(''),  url('')
 }
 .seconds52 :nth-child(4){
-    background-image:  url('digits/theDot.png')
+    background-image:  url('digits/theDot.png'), url('digits/theDot.png');
 }
 .seconds53 :nth-child(4){
-    background-image:  url('')
+    background-image:  url(''),  url('')
 }
 .seconds54 :nth-child(4){
-    background-image:  url('digits/theDot.png')
+    background-image:  url('digits/theDot.png'), url('digits/theDot.png');
 }
 .seconds55 :nth-child(4){
-    background-image:  url('')
+    background-image:  url(''),  url('')
 }
 .seconds56 :nth-child(4){
-    background-image:  url('digits/theDot.png')
+    background-image:  url('digits/theDot.png'), url('digits/theDot.png');
 }
 .seconds57 :nth-child(4){
-    background-image:  url('')
+    background-image:  url(''),  url('')
 }
 .seconds58 :nth-child(4){
-    background-image:  url('digits/theDot.png')
+    background-image:  url('digits/theDot.png'), url('digits/theDot.png');
 }
 .seconds59 :nth-child(4){
-    background-image:  url('')
+    background-image:  url(''),  url('')
 }
