@@ -1,5 +1,5 @@
 var hours = 7;
-var minutes = 15;
+var minutes = 12;
 var seconds = 0;
 var currentTheme = 0;
 var themes = ['Standard','CuteDigital','Blocky'];
@@ -34,9 +34,11 @@ function showTime() {
     hour = hour % 12;
     hour = hour ? hour : 12;
 
+    //hour = hour + 1;
+
     var minute = now.getMinutes();
     var second = now.getSeconds();
-    
+
     setTimeout(() => {
         showSecondHandAt(second);
         seconds = second;
@@ -81,7 +83,7 @@ function showHoursHandAt(hour,minute) {
 
     var hourPart = Math.floor(minute / 12);
 
-    $('.clock').removeClass('hours'+hours);
+    $('.clock').removeClass(hours);
 
     hours = 'hours'+hour+'-'+hourPart;
     
