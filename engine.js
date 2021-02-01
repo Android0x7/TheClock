@@ -1,8 +1,8 @@
 var hours = 7;
 var minutes = 12;
 var seconds = 0;
-var currentTheme = 2;
-var themes = ['Standard','CuteDigital','Blocky'];
+var currentTheme = 0;
+var themes = ['Candy','Standard','CuteDigital','Blocky'];
 
 function fnChangeClock(){
 
@@ -22,6 +22,11 @@ function init() {
  //alert();
  //$('*[class^="layer"]').hide();
 
+ $("#mainCss").attr('href','Clock/'+ themes[currentTheme] +'/main.css');
+ $("#hoursCss").attr('href','Clock/'+ themes[currentTheme] +'/hours.css');
+ $("#minutesCss").attr('href','Clock/'+ themes[currentTheme] +'/minutes.css');
+ $("#secondsCss").attr('href','Clock/'+ themes[currentTheme] +'/seconds.css');
+ 
  setInterval(showTime, 1000);
 
 }
