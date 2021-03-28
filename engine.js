@@ -2,7 +2,7 @@ var hours = 7;
 var minutes = 12;
 var seconds = 0;
 var currentTheme = 0;
-var themes = ['Candy','Standard','CuteDigital','Blocky'];
+var themes = ['Blocky','Candy','Standard','CuteDigital'];
 
 function fnChangeClock(){
 
